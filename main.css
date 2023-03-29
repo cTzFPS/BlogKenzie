@@ -1,0 +1,42 @@
+body {
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    background-color: #232323;
+}
+
+a {
+    color: rgb(0, 65, 206);
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+.primeiro {
+    margin-top: 40px;
+}
+
+.segundo {
+    margin-top: 40px;
+}
+
+.terceiro {
+    margin-top: 40px;
+}
+
+.quarto {
+    margin-top: 40px;
+}
+
+.form {
+    margin-top: 40px;
+}
