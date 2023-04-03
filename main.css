@@ -22,6 +22,7 @@ body {
     font-family: 'Roboto', sans-serif;
     width: 100%;
     height: 100%;
+    padding: 0px;
 }
 
 h2 {
@@ -74,21 +75,49 @@ input {
 .primeiro {
     margin-top: 50px;
     text-align: center;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 30px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .segundo {
     margin-top: 50px;
     text-align: center;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 30px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .terceiro {
     margin-top: 50px;
     text-align: center;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 30px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .quarto {
     margin-top: 50px;
     text-align: center;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 30px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .form {
