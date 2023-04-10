@@ -28,6 +28,7 @@ body {
 h2 {
     margin: 0px;
     color: #ffffff;
+    height: 100%;
 }
 
 h3 {
@@ -86,7 +87,7 @@ input {
 .quarto {
     margin-top: 50px;
     text-align: center;
-    border-width: 5px;
+    border-width: 2px;
     border-style: solid;
     border-color: #000000;
     border-radius: 30px;
